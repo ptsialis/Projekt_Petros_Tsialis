@@ -1,0 +1,1719 @@
+;name_of_the_features;id_of_the_features;name_of_the_dataset;datatype_of_the_feature;dataset_min_value;dataset_max_value;data_descr;chat_gpt_just_feature;chat_gpt_all_feature;chat_gpt_desc_feature
+0;RIDGE;871;pollen;numeric;-23,2839;21,4066;"**Author**:   
+**Source**: Unknown - Date unknown  
+**Please cite**:   
+
+Binarized version of the original data set (see version 1). It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N').";;;
+1;NUB;871;pollen;numeric;-16,3935;17,2583;"**Author**:   
+**Source**: Unknown - Date unknown  
+**Please cite**:   
+
+Binarized version of the original data set (see version 1). It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N').";;;
+2;CRACK;871;pollen;numeric;-31,413;30,3178;"**Author**:   
+**Source**: Unknown - Date unknown  
+**Please cite**:   
+
+Binarized version of the original data set (see version 1). It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N').";;;
+3;WEIGHT;871;pollen;numeric;-34,0352;35,8028;"**Author**:   
+**Source**: Unknown - Date unknown  
+**Please cite**:   
+
+Binarized version of the original data set (see version 1). It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N').";;;
+4;DENSITY;871;pollen;numeric;-12,0391;10,8673;"**Author**:   
+**Source**: Unknown - Date unknown  
+**Please cite**:   
+
+Binarized version of the original data set (see version 1). It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N').";;;
+5;a1;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+6;a2;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+7;a3;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+8;a4;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+9;a5;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+10;y1;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";;;
+11;y2;23515;sulfur;numeric;0,0;1,0;"&quot;The sulfur recovery unit (SRU) removes environmental pollutants from acid gas
+streams before they are released into the atmosphere. Furthermore, elemental sulfur
+is recovered as a valuable by-product.&quot;
+
+5 inputs variables are gas and air flows.
+2 outputs to predict are H2S and SO2 concentrations
+
+See Appendix A.5 of Fortuna, L., Graziani, S., Rizzo, A., Xibilia, M.G. &quot;Soft Sensors for Monitoring and Control of Industrial Processes&quot; (Springer 2007) for more info.";"Minimum: -10
+Maximum: 10";;
+12;productId;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Minimum: 1000
+Maximum: 9999";;
+13;machineId;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Minimum: 1
+Maximum: 10000";;
+14;temp;42183;dataset_sales;numeric;0,0;1,0000000000000009;Dataset sales;temp: -10 to 40;;
+15;weather_condition_id;42183;dataset_sales;numeric;0,0;0,9999999999999999;Dataset sales;"Minimum: 1
+Maximum: 10";;
+16;isholiday;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Minimum: 0
+Maximum: 1";;
+17;daysoff;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;Minimum: 0                     Maximum: 365;;
+18;year;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Minimum: 2000
+Maximum: 2022";;
+19;month;42183;dataset_sales;numeric;0,0;0,9999999999999999;Dataset sales;"Minimum: January
+Maximum: December";;
+20;day;42183;dataset_sales;numeric;0,0;0,9999999999999999;Dataset sales;"Minimum: 1
+Maximum: 31";;
+21;week_day;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Dataset: 
+
+week_day: [1, 2, 3, 4, 5, 6, 7]
+
+Minimum: 1
+Maximum: 7";;
+22;avail0;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;;;
+23;avail1;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;"Based on the available dataset, the minimum and maximum values for the feature ""avail1"" cannot be determined.";;
+24;avail2;42183;dataset_sales;numeric;0,0;1,0;Dataset sales;min: 0, max: 1;;
+25;sales;42183;dataset_sales;numeric;3,0;85,0;Dataset sales;"Minimum: 0
+Maximum: 1,000,000";;
+26;stdv;42183;dataset_sales;numeric;0,0;47,0;Dataset sales;"min stdv: 0.1
+max stdv: 4.5";;
+27;qts;42545;stock_fardamento02;numeric;1,0;833,0;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";"Minimum: 0
+Maximum: 100";;
+28;Material;42545;stock_fardamento02;numeric;5367,0;65024,0;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";"Min: 1
+Max: 10";;
+29;pp;42545;stock_fardamento02;numeric;0,0;20,1;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";Range: 0 to 1000;;
+30;TEMP;42545;stock_fardamento02;numeric;8,4;26,0;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";"Minimum: -10°C
+Maximum: 40°C";;
+31;adm;42545;stock_fardamento02;numeric;28,0;230,0;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";"Minimum: 0
+Maximum: 100";;
+32;Dem;42545;stock_fardamento02;numeric;36,0;239,0;"**Author**:   
+
+**Source**: Unknown - Date unknown  
+
+**Please cite**:   
+
+
+
+valores de saida de fardamento com temperaturas, admiss&otilde;es e demiss&otilde;es";"Min: 0 
+Max: 100";;
+33;1990;43809;GDP-per-capita-all-countries;numeric;424,823989;72906,52012;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: unknown
+Maximum: unknown";;
+34;1991;43809;GDP-per-capita-all-countries;numeric;324,6360462;71753,72956;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1900
+Maximum: 2021";;
+35;1992;43809;GDP-per-capita-all-countries;numeric;300,9789673;71567,82752;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum value: 0
+Maximum value: 1000";;
+36;1993;43809;GDP-per-capita-all-countries;numeric;327,3411883;70082,38933;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";;;
+37;1994;43809;GDP-per-capita-all-countries;numeric;342,4329064;72471,68729;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";1994: min = 0, max = 99999999;;
+38;1995;43809;GDP-per-capita-all-countries;numeric;345,1363376;74994,38062;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1995
+Maximum: 1995";;
+39;1996;43809;GDP-per-capita-all-countries;numeric;379,151098;76848,79224;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1
+Maximum: 9999";;
+40;1997;43809;GDP-per-capita-all-countries;numeric;417,8391769;80390,06411;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1997
+Maximum: 1997";;
+41;1998;43809;GDP-per-capita-all-countries;numeric;452,6620933;77421,10866;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 10,000";;
+42;1999;43809;GDP-per-capita-all-countries;numeric;469,1280301;76654,25591;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Min: 1990
+Max: 2010";;
+43;2000;43809;GDP-per-capita-all-countries;numeric;455,8150878;86169,39432;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1500
+Maximum: 2500";;
+44;2001;43809;GDP-per-capita-all-countries;numeric;443,5747121;88138,42244;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 1
+Maximum: 3000";;
+45;2002;43809;GDP-per-capita-all-countries;numeric;450,4504171;92091,2766;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Min: 0
+Max: 100";;
+46;2003;43809;GDP-per-capita-all-countries;numeric;469,7704098;91451,60854;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";2003: Minimum value: unknown. Maximum value: unknown.;;
+47;2004;43809;GDP-per-capita-all-countries;numeric;498,9798703;101329,4787;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";;;
+48;2005;43809;GDP-per-capita-all-countries;numeric;528,9747838;97768,57115;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100";;
+49;2006;43809;GDP-per-capita-all-countries;numeric;555,799958;107541,4558;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 1000000";;
+50;2007;43809;GDP-per-capita-all-countries;numeric;586,9952654;109362,5076;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 2007
+Maximum: 2007";;
+51;2008;43809;GDP-per-capita-all-countries;numeric;615,0719745;111255,9944;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"The minimum value for the feature ""2008"" is: unknown
+The maximum value for the feature ""2008"" is: unknown";;
+52;2009;43809;GDP-per-capita-all-countries;numeric;616,6586194;108953,6771;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100000";;
+53;2010;43809;GDP-per-capita-all-countries;numeric;646,2953953;117518,7009;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100000";;
+54;2011;43809;GDP-per-capita-all-countries;numeric;682,007332;124024,5682;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 99999";;
+55;2012;43809;GDP-per-capita-all-countries;numeric;719,914259;126618,3727;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100";;
+56;2013;43809;GDP-per-capita-all-countries;numeric;699,5928807;139962,1749;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Min: 0
+Max: 100";;
+57;2014;43809;GDP-per-capita-all-countries;numeric;710,8121645;137832,9615;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100";;
+58;2015;43809;GDP-per-capita-all-countries;numeric;744,7345426;123822,0833;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100";;
+59;2016;43809;GDP-per-capita-all-countries;numeric;743,9035976;123573,6308;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: Unknown
+Maximum: Unknown";;
+60;2017;43809;GDP-per-capita-all-countries;numeric;737,9785829;124609,3041;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"min: 0
+max: 100";;
+61;2018;43809;GDP-per-capita-all-countries;numeric;744,182072;126898,4259;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"The minimum and maximum values for the feature ""2018"" cannot be determined without access to the dataset or additional information.";;
+62;2019;43809;GDP-per-capita-all-countries;numeric;;;"Gross Domestic Product (GDP) is the monetary value of all finished goods and services made within a country during a specific period. GDP provides an economic snapshot of a country, used to estimate the size of an economy and growth rate.
+This dataset contains the GDP based on Purchasing Power Parity (PPP). 
+GDP comparisons using PPP are arguably more useful than those using nominal GDP when assessing a nation's domestic market because PPP takes into account the relative cost of local goods, services and inflation rates of the country, rather than using international market exchange rates which may distort the real differences in per capita income
+Acknowledgement
+Thanks to World Databank";"Minimum: 0
+Maximum: 100000";;
+63;Unnamed:_0;43825;Nutritional-values-for-common-foods-and-products;numeric;0,0;8788,0;"Context
+I found this data occasionally and I just could not pass by. So I hope that this dasatet will help anyone who interested in food nutrition values.
+Content
+This dataset contains nutrition values for about 8.8k types of food. The features names is very self-explanatory, so I'll not make a description for them.";"min: -∞
+max: +∞";;
+64;calories;43825;Nutritional-values-for-common-foods-and-products;numeric;0,0;902,0;"Context
+I found this data occasionally and I just could not pass by. So I hope that this dasatet will help anyone who interested in food nutrition values.
+Content
+This dataset contains nutrition values for about 8.8k types of food. The features names is very self-explanatory, so I'll not make a description for them.";"Minimum: 0
+Maximum: 5000";;
+65;lucopene;43825;Nutritional-values-for-common-foods-and-products;numeric;0,0;0,0;"Context
+I found this data occasionally and I just could not pass by. So I hope that this dasatet will help anyone who interested in food nutrition values.
+Content
+This dataset contains nutrition values for about 8.8k types of food. The features names is very self-explanatory, so I'll not make a description for them.";"Minimum: 0
+Maximum: 5000";;
+66;Year;43831;Consumer-Price-Index;numeric;2013,0;2020,0;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;Min: 2000, Max: 2021;;
+67;Cereals_and_products;43831;Consumer-Price-Index;numeric;107,5;152,7;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100";;
+68;Meat_and_fish;43831;Consumer-Price-Index;numeric;106,3;197,0;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 10,000";;
+69;Egg;43831;Consumer-Price-Index;numeric;102,7;157,0;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 200";;
+70;Milk_and_products;43831;Consumer-Price-Index;numeric;103,6;155,6;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 30,000";;
+71;Oils_and_fats;43831;Consumer-Price-Index;numeric;101,1;138,2;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 40";;
+72;Fruits;43831;Consumer-Price-Index;numeric;102,3;157,5;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100";;
+73;Vegetables;43831;Consumer-Price-Index;numeric;101,4;231,5;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"min: 0.5  
+max: 5.0";;
+74;Pulses_and_products;43831;Consumer-Price-Index;numeric;103,5;191,6;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100000";;
+75;Sugar_and_Confectionery;43831;Consumer-Price-Index;numeric;85,3;123,9;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100";;
+76;Spices;43831;Consumer-Price-Index;numeric;101,8;159,8;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 10";;
+77;Non-alcoholic_beverages;43831;Consumer-Price-Index;numeric;104,8;142,1;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 10";;
+78;Prepared_meals,_snacks,_sweets_etc.;43831;Consumer-Price-Index;numeric;106,7;161,8;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 1000";;
+79;Food_and_beverages;43831;Consumer-Price-Index;numeric;105,5;157,0;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;Min: 0    Max: 100;;
+80;Pan,_tobacco_and_intoxicants;43831;Consumer-Price-Index;numeric;105,1;186,7;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 1000";;
+81;Clothing;43831;Consumer-Price-Index;numeric;105,9;154,7;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100";;
+82;Footwear;43831;Consumer-Price-Index;numeric;105,0;150,0;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Min: 36
+Max: 48";;
+83;Clothing_and_footwear;43831;Consumer-Price-Index;numeric;105,8;154,1;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Min: 0
+Max: 1000";;
+84;Housing;43831;Consumer-Price-Index;numeric;100,3;155,6;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;Min: 0, Max: 1;;
+85;Fuel_and_light;43831;Consumer-Price-Index;numeric;105,4;153,4;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Based on the limited information provided, the minimum and maximum values for the feature ""Fuel_and_light"" cannot be determined.";;
+86;Household_goods_and_services;43831;Consumer-Price-Index;numeric;104,8;151,8;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;min: 0, max: 100000;;
+87;Health;43831;Consumer-Price-Index;numeric;104,0;158,2;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;Min: 0.5, Max: 10.;;
+88;Transport_and_communication;43831;Consumer-Price-Index;numeric;103,2;141,4;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"minimum: 1
+maximum: 100";;
+89;Recreation_and_amusement;43831;Consumer-Price-Index;numeric;102,9;153,2;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 100";;
+90;Education;43831;Consumer-Price-Index;numeric;103,5;161,9;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 20";;
+91;Personal_care_and_effects;43831;Consumer-Price-Index;numeric;102,1;152,2;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Min: 0
+Max: 1000";;
+92;Miscellaneous;43831;Consumer-Price-Index;numeric;103,7;151,7;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"Minimum: 0
+Maximum: 1000";;
+93;General_index;43831;Consumer-Price-Index;numeric;104,0;152,7;Consumer Price Indices (CPI) measure changes over time in general level of prices of goods and services that households acquire for the purpose of consumption. CPI numbers are widely used as a macroeconomic indicator of inflation, as a tool by governments and central banks for inflation targeting and for monitoring price stability, and as deflators in the national accounts. CPI is also used for indexing dearness allowance to employees for increase in prices. CPI is therefore considered as one of the most important economic indicators. For construction of CPI numbers, two requisite components are weighting diagrams (consumption patterns) and price data collected at regular intervals. The data refers to group wise all India Consumer Price Index for Rural  Urban with base year 2010. The dataset is published by Central Statistical Office and released on 12th of every month.;"minimum: 0
+maximum: 100";;
+94;Unnamed:_0;43836;features-and-price-of-computer-components;numeric;0,0;919,0;"Context
+The most common website that provided computer hardware components we chose the Newegg website it has hardware systems, Buy PC Parts, Laptops, Electronics  More. Now Shipping to Saudi Arabia! Track Order and more with fast shipping.
+to determine which the best component with the best price here we can provide you this dataset. 
+Content
+Implement the Web scraping by using  the python language and using selenium on python, to extract the data from newegg that contain CPU, GPU, power, ram, monitor, storage 
+the** data contains**:
+
+the brand name
+items_Decribtion
+ratings
+prices
+Category (CPU, GPU,motherboard, ram, powersuplly, storage  )
+
+Acknowledgements
+Thank you for the MISK academy and general assembly for guiding us.
+Inspiration
+we recommend using EDA to clean data and also recommend to build model predictive price or build assumption analysis";"Minimum: 0
+Maximum: 100";;
+95;MEAN_TEMPERATURE_CALGARY;43843;Eighty-years-of-Canadian-climate-data;numeric;-37,5;26,2;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -30°C
+Maximum: 35°C";;
+96;TOTAL_PRECIPITATION_CALGARY;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;92,6;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum value: 0
+Maximum value: 100";;
+97;MEAN_TEMPERATURE_EDMONTON;43843;Eighty-years-of-Canadian-climate-data;numeric;-40,8;24,7;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -45 
+Maximum: 35";;
+98;TOTAL_PRECIPITATION_EDMONTON;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;75,6;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0
+Maximum: 500";;
+99;MEAN_TEMPERATURE_HALIFAX;43843;Eighty-years-of-Canadian-climate-data;numeric;-23,5;27,0;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Min: -30 degrees Celsius
+Max: 40 degrees Celsius";;
+100;TOTAL_PRECIPITATION_HALIFAX;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;218,2;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 mm
+Maximum: 1000 mm";;
+101;MEAN_TEMPERATURE_MONCTON;43843;Eighty-years-of-Canadian-climate-data;numeric;-27,4;27,2;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -40 
+
+Maximum: 40";;
+102;TOTAL_PRECIPITATION_MONCTON;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;131,8;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 (mm)
+Maximum: 200 (mm)";;
+103;MEAN_TEMPERATURE_MONTREAL;43843;Eighty-years-of-Canadian-climate-data;numeric;-30,9;30,3;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -50 degrees Celsius
+Maximum: 40 degrees Celsius";;
+104;TOTAL_PRECIPITATION_MONTREAL;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;93,5;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 mm
+Maximum: 200 mm";;
+105;MEAN_TEMPERATURE_OTTAWA;43843;Eighty-years-of-Canadian-climate-data;numeric;-31,3;30,0;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -40°C
+Maximum: 40°C";;
+106;TOTAL_PRECIPITATION_OTTAWA;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;135,4;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 mm
+Maximum: 100 mm";;
+107;MEAN_TEMPERATURE_QUEBEC;43843;Eighty-years-of-Canadian-climate-data;numeric;-30,6;28,9;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -30°C
+Maximum: 30°C";;
+108;TOTAL_PRECIPITATION_QUEBEC;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;108,5;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0
+Maximum: 100 (assuming precipitation is measured in mm)";;
+109;MEAN_TEMPERATURE_SASKATOON;43843;Eighty-years-of-Canadian-climate-data;numeric;-41,7;32,1;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -40 degrees Celsius
+Maximum: 40 degrees Celsius";;
+110;TOTAL_PRECIPITATION_SASKATOON;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;96,6;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Sorry, as an AI text-based assistant, I don't have direct access to real-time data. Thus, I'm unable to provide you with the exact range for the feature ""TOTAL_PRECIPITATION_SASKATOON"" in a specific dataset.";;
+111;MEAN_TEMPERATURE_STJOHNS;43843;Eighty-years-of-Canadian-climate-data;numeric;-21,3;25,2;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -30°C 
+Maximum: 35°C";;
+112;TOTAL_PRECIPITATION_STJOHNS;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;121,2;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0mm
+Maximum: 500mm";;
+113;MEAN_TEMPERATURE_TORONTO;43843;Eighty-years-of-Canadian-climate-data;numeric;-24,7;31,8;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -30°C
+Maximum: 40°C";;
+114;TOTAL_PRECIPITATION_TORONTO;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;126,0;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0
+Maximum: 300mm";;
+115;MEAN_TEMPERATURE_VANCOUVER;43843;Eighty-years-of-Canadian-climate-data;numeric;-14,5;28,4;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -10°C
+Maximum: 35°C";;
+116;TOTAL_PRECIPITATION_VANCOUVER;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;91,6;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 mm
+Maximum: 500 mm";;
+117;MEAN_TEMPERATURE_WHITEHORSE;43843;Eighty-years-of-Canadian-climate-data;numeric;-48,1;23,9;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -40°C
+Maximum: 30°C";;
+118;TOTAL_PRECIPITATION_WHITEHORSE;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;44,9;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Min: 0 mm
+Max: 100 mm";;
+119;MEAN_TEMPERATURE_WINNIPEG;43843;Eighty-years-of-Canadian-climate-data;numeric;-38,6;30,9;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: -46°C
+Maximum: 38°C";;
+120;TOTAL_PRECIPITATION_WINNIPEG;43843;Eighty-years-of-Canadian-climate-data;numeric;0,0;83,8;"This dataset has been compiled from public sources. The dataset consists of daily temperatures and precipitation from 13 Canadian centres. Precipitation is either rain or snow (likely snow in winter months). In 1940, there is daily data for seven out of the 13 centres, but by 1960 there is daily data from all 13 centres, with the occasional missing value.
+Few of Canadas weather stations have been operating continuously, so we did need to patch together the data. Our source data is from https://climate-change.canada.ca/climate-data//daily-climate-data and here are the weather stations that we queried:
+CALGARY INTL A
+CALGARY INT'L A
+EDMONTON INTL A
+EDMONTON INT'L A
+HALIFAX STANFIELD INT'L A
+HALIFAX STANFIELD INT'L A
+MONCTON A
+MONCTON A
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL
+MONTREAL/PIERRE ELLIOTT TRUDEAU INTL A
+OTTAWA INTL A
+OTTAWA MACDONALD-CARTIER INT'L A
+QUEBEC/JEAN LESAGE INTL
+QUEBEC/JEAN LESAGE INTL A
+SASKATOON DIEFENBAKER INT'L A
+SASKATOON INTL A
+ST JOHN'S A
+ST JOHNS WEST CLIMATE
+TORONTO INTL A
+TORONTO LESTER B. PEARSON INT'L A
+VANCOUVER INTL A
+VANCOUVER INT'L A
+WHITEHORSE A
+WHITEHORSE A
+WINNIPEG RICHARDSON INT'L A
+WINNIPEG THE FORKS
+Suggested uses: The data is suitable for time series forecasting.  At Penny Analytics, we are using this dataset to demonstrate outlier detection (anomaly detection) in multiple time series and here is the relevant blogpost: https://pennyanalytics.com/2020/01/28/climate-change-canadian-weather-anomalies-are-now-warmer-and-wetter/";"Minimum: 0 mm
+Maximum: 100 mm";;
+121;total_cases;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;20075600,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1000000";;
+122;new_cases;43844;Coronavirus-Worldwide-Dataset;numeric;-2461,0;298083,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";Minimum: 0, Maximum: 1000;;
+123;total_deaths;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;736372,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0 deaths
+Maximum: 1 million deaths";;
+124;new_deaths;43844;Coronavirus-Worldwide-Dataset;numeric;-1918,0;10504,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Based on the given information, it is impossible for me to provide a specific range of values for the feature ""new_deaths"" without knowing the dataset or any additional details.";;
+125;total_cases_per_million;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;39312,614;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 20000";;
+126;new_cases_per_million;43844;Coronavirus-Worldwide-Dataset;numeric;-265,189;4944,376;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 50000";;
+127;total_deaths_per_million;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;1237,551;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 10,000";;
+128;new_deaths_per_million;43844;Coronavirus-Worldwide-Dataset;numeric;-41,023;200,04;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1000";;
+129;new_tests;43844;Coronavirus-Worldwide-Dataset;numeric;-3743,0;926876,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Min: 0
+Max: 1000";;
+130;total_tests;43844;Coronavirus-Worldwide-Dataset;numeric;1,0;61792571,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"minimum: 0
+maximum: 1000000";;
+131;total_tests_per_thousand;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;707,957;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+
+Maximum: 1000";;
+132;new_tests_per_thousand;43844;Coronavirus-Worldwide-Dataset;numeric;-0,398;22,359;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"The minimum value for the feature ""new_tests_per_thousand"" could be 0, and the maximum value could be 10.";;
+133;new_tests_smoothed;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;822470,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1 million";;
+134;new_tests_smoothed_per_thousand;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;15,82;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";;;
+135;tests_per_case;43844;Coronavirus-Worldwide-Dataset;numeric;1,398;47299,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1000";;
+136;positive_rate;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;0,715;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1";;
+137;stringency_index;43844;Coronavirus-Worldwide-Dataset;numeric;0,0;100,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0.0
+Maximum: 100.0";;
+138;population;43844;Coronavirus-Worldwide-Dataset;numeric;809,0;7794798729,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1,000,000,000";;
+139;population_density;43844;Coronavirus-Worldwide-Dataset;numeric;0,137;19347,5;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 1
+Maximum: 10,000";;
+140;median_age;43844;Coronavirus-Worldwide-Dataset;numeric;15,1;48,2;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"I'm sorry, but as an AI language model, I don't have access to real-time data or the ability to make specific predictions about a dataset I don't know. Therefore, I cannot provide a specific range for the feature ""median_age.""";;
+141;aged_65_older;43844;Coronavirus-Worldwide-Dataset;numeric;1,144;27,049;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 27.049";;
+142;aged_70_older;43844;Coronavirus-Worldwide-Dataset;numeric;0,526;18,493;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0.1
+Maximum: 28.2";;
+143;gdp_per_capita;43844;Coronavirus-Worldwide-Dataset;numeric;661,24;116935,6;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Min: 1000
+Max: 50000";;
+144;extreme_poverty;43844;Coronavirus-Worldwide-Dataset;numeric;0,1;77,6;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 100";;
+145;cardiovasc_death_rate;43844;Coronavirus-Worldwide-Dataset;numeric;79,37;724,417;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0.1
+Maximum: 100";;
+146;diabetes_prevalence;43844;Coronavirus-Worldwide-Dataset;numeric;0,99;23,36;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 4%
+Maximum: 15%";;
+147;female_smokers;43844;Coronavirus-Worldwide-Dataset;numeric;0,1;44,0;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum value: 0
+Maximum value: 1";;
+148;male_smokers;43844;Coronavirus-Worldwide-Dataset;numeric;7,7;78,1;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";Sorry, but I can't provide the answer you're looking for. As a language model AI, I don't have access to specific datasets unless provided by you.;;
+149;handwashing_facilities;43844;Coronavirus-Worldwide-Dataset;numeric;1,188;98,999;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0
+Maximum: 1";;
+150;hospital_beds_per_thousand;43844;Coronavirus-Worldwide-Dataset;numeric;0,1;13,8;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 0.1 beds per thousand.
+Maximum: 20 beds per thousand.";;
+151;life_expectancy;43844;Coronavirus-Worldwide-Dataset;numeric;53,28;86,75;"Context
+From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people.
+So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community.
+The European CDC publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries.
+Content
+This dataset has daily level information on the number of affected cases, deaths and recovery etc. from coronavirus. It also contains various other parameters like average life expectancy, population density, smocking population etc. which users can find useful in further prediction that they need to make.
+The data is available from 31 Dec,2019.
+Inspiration
+Give people weekly data so that they can use it to make accurate predictions.";"Minimum: 60
+
+Maximum: 90";;
+152;Unnamed:_0;43845;Music-Dataset--1950-to-2019;numeric;0,0;82451,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 1
+Maximum: 100";;
+153;release_date;43845;Music-Dataset--1950-to-2019;numeric;1950,0;2019,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 1995
+Maximum: 2021";;
+154;len;43845;Music-Dataset--1950-to-2019;numeric;1,0;199,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";min(lenthat) = 0, max(lenthat) = 100;;
+155;dating;43845;Music-Dataset--1950-to-2019;numeric;0,0002907822076824;0,6477056837134862;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 10";;
+156;violence;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950389099;0,9817813761098833;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";Min: 0 | Max: 10;;
+157;world/life;43845;Music-Dataset--1950-to-2019;numeric;0,0002907822291249;0,9621052630946434;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Min: 0.0
+Max: 10.0";;
+158;night/time;43845;Music-Dataset--1950-to-2019;numeric;0,0002891845285926;0,973684210436609;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 18:00 (6:00 PM)
+Maximum: 06:00 (6:00 AM)";;
+159;shake_the_audience;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950238083;0,4974632447650391;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"min: 0
+max: 1";;
+160;family/gospel;43845;Music-Dataset--1950-to-2019;numeric;0,0002891845012838;0,5453030204950489;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 1";;
+161;romantic;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950228539;0,9407894736557656;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0 
+Maximum: 1";;
+162;communication;43845;Music-Dataset--1950-to-2019;numeric;0,0002907822160555;0,6458293721065843;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0 (no communication)
+Maximum: 10 (excellent communication)";;
+163;obscene;43845;Music-Dataset--1950-to-2019;numeric;0,0002891845061228;0,9922978174168036;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Feature: Obscene
+Minimum value: 0
+Maximum value: 1";;
+164;music;43845;Music-Dataset--1950-to-2019;numeric;0,0002891845183107;0,956937797832092;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 1";;
+165;movement/places;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950335519;0,6380208762657712;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 1000";;
+166;light/visual_perceptions;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950343847;0,6677818773166649;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Min: 0.5
+Max: 1.5";;
+167;family/spiritual;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950237575;0,6180725221153165;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Based on the given dataset, the minimum and maximum values for the feature ""family/spiritual"" cannot be determined without further information.";;
+168;like/girls;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950380678;0,5944587414008574;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 100";;
+169;sadness;43845;Music-Dataset--1950-to-2019;numeric;0,0002844950256712;0,9814241477067284;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 1
+Maximum: 10";;
+170;feelings;43845;Music-Dataset--1950-to-2019;numeric;0,0002891845002293;0,9588100686138684;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";min(feelings) = 1, max(feelings) = 10;;
+171;danceability;43845;Music-Dataset--1950-to-2019;numeric;0,0054153579551608;0,9935015704538072;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Min: 0.0
+Max: 1.0";;
+172;loudness;43845;Music-Dataset--1950-to-2019;numeric;0,0;1,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: -60 dB
+Maximum: 0 dB";;
+173;acousticness;43845;Music-Dataset--1950-to-2019;numeric;2,811247802457635e-07;1,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 1";;
+174;instrumentalness;43845;Music-Dataset--1950-to-2019;numeric;0,0;0,9969635627530364;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";0.0 to 1.0;;
+175;valence;43845;Music-Dataset--1950-to-2019;numeric;0,0;1,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 1";;
+176;energy;43845;Music-Dataset--1950-to-2019;numeric;0,0;1,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 100";;
+177;age;43845;Music-Dataset--1950-to-2019;numeric;0,0142857142857142;1,0;"Context
+This dataset provides a list of lyrics from 1950 to 2019 describing music metadata as sadness, danceability, loudness, acousticness, etc. Authors also provide some information as lyrics which can be used to natural language processing. 
+Acknowledgements
+Moura, Luan; Fontelles, Emanuel; Sampaio, Vinicius; Frana, Mardnio (2020), Music Dataset: Lyrics and Metadata from 1950 to 2019, Mendeley Data, V3, doi: 10.17632/3t9vbwxgr5.3";"Minimum: 0
+Maximum: 100";;
+178;age;43904;law-school-admission-bianry;numeric;3,0;69,0;"Law School Admissions (Binarized) 
+ Survey among students attending law school in the U.S. in 1991. 
+ The dataset was obtained from the R-package fairml. 
+ The response variable has been changed to a binary version: Whether ugpa is greater than 3.
+ The race1 variables has been binarized to labels white and non-white.";"Minimum: 0
+Maximum: 100";;
+179;decile1;43904;law-school-admission-bianry;numeric;1,0;10,0;"Law School Admissions (Binarized) 
+ Survey among students attending law school in the U.S. in 1991. 
+ The dataset was obtained from the R-package fairml. 
+ The response variable has been changed to a binary version: Whether ugpa is greater than 3.
+ The race1 variables has been binarized to labels white and non-white.";"Minimum: 1
+Maximum: 10";;
+180;decile3;43904;law-school-admission-bianry;numeric;1,0;10,0;"Law School Admissions (Binarized) 
+ Survey among students attending law school in the U.S. in 1991. 
+ The dataset was obtained from the R-package fairml. 
+ The response variable has been changed to a binary version: Whether ugpa is greater than 3.
+ The race1 variables has been binarized to labels white and non-white.";"Minimum: 0
+Maximum: 10";;
+181;fam_inc;43904;law-school-admission-bianry;numeric;1,0;5,0;"Law School Admissions (Binarized) 
+ Survey among students attending law school in the U.S. in 1991. 
+ The dataset was obtained from the R-package fairml. 
+ The response variable has been changed to a binary version: Whether ugpa is greater than 3.
+ The race1 variables has been binarized to labels white and non-white.";"MIN: $0
+MAX: $500,000";;
+182;lsat;43904;law-school-admission-bianry;numeric;11,0;48,0;"Law School Admissions (Binarized) 
+ Survey among students attending law school in the U.S. in 1991. 
+ The dataset was obtained from the R-package fairml. 
+ The response variable has been changed to a binary version: Whether ugpa is greater than 3.
+ The race1 variables has been binarized to labels white and non-white.";"Minimum: 120.0
+Maximum: 180.0";;
+183;CreditScore;45062;shrutime;numeric;350,0;850,0;This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Source: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling;min: 300, max: 850;;
+184;Age;45062;shrutime;numeric;18,0;92,0;This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Source: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling;"Minimum: 18
+Maximum: 70";;
+185;Balance;45062;shrutime;numeric;0,0;250898,09;This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Source: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling;"Minimum: 0
+Maximum: 10,000,000";;
+186;EstimatedSalary;45062;shrutime;numeric;11,58;199992,48;This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Source: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling;"Minimum: $15,000
+Maximum: $200,000";;
+187;class;45062;shrutime;numeric;0,0;1,0;This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.Source: https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling;"Minimum: 1
+Maximum: 10";;
+188;year;45106;MTPL_SHAP_Tutorial;numeric;2018,0;2019,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 1970
+Maximum: 2021";;
+189;town;45106;MTPL_SHAP_Tutorial;numeric;0,0;1,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";min: 0, max: 100;;
+190;driver_age;45106;MTPL_SHAP_Tutorial;numeric;18,0;88,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";min: 18, max: 80;;
+191;car_weight;45106;MTPL_SHAP_Tutorial;numeric;950,0;3120,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";;;
+192;car_power;45106;MTPL_SHAP_Tutorial;numeric;50,0;341,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 50
+Maximum: 500";;
+193;car_age;45106;MTPL_SHAP_Tutorial;numeric;0,0;23,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 1 year
+Maximum: 30 years";;
+194;claim_nb;45106;MTPL_SHAP_Tutorial;numeric;0,0;4,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 0 
+Maximum: 100";;
+195;year;45106;MTPL_SHAP_Tutorial;numeric;2018,0;2019,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 1970
+Maximum: 2021";;
+196;town;45106;MTPL_SHAP_Tutorial;numeric;0,0;1,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Min: 1
+Max: 100";;
+197;driver_age;45106;MTPL_SHAP_Tutorial;numeric;18,0;88,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 18
+Maximum: 99";;
+198;car_weight;45106;MTPL_SHAP_Tutorial;numeric;950,0;3120,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 1000 lbs
+Maximum: 6000 lbs";;
+199;car_power;45106;MTPL_SHAP_Tutorial;numeric;50,0;341,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 50
+Maximum: 500";;
+200;car_age;45106;MTPL_SHAP_Tutorial;numeric;0,0;23,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 1 year
+Maximum: 20 years";;
+201;claim_nb;45106;MTPL_SHAP_Tutorial;numeric;0,0;4,0;"This motor third-part liability (MTPL) pricing dataset describes 1 Mio insurance policies and their corresponding claim counts, see
+      Mayer, M., Meier, D. and Wuthrich, M.V. (2023) SHAP for Actuaries: Explain any Model. http://dx.doi.org/10.2139/ssrn.4389797";"Minimum: 0
+Maximum: 100";;
